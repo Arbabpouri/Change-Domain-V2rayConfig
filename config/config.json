@@ -1,0 +1,8 @@
+{
+    "ApiID": 271091,
+    "ApiHash": "c67b07ae46783460c54aa781f0ecf09d",
+    "Token": "5444867193:AAHQINQHEKxGkBrV5huHO1ExMkRzwje3ZWE",
+    "AdminUsername": "Mr_NetWorkS",
+    "server_start_with": ["vmess://"],
+    "hosts": [["b.rr.cxmgaming.click", "b.rr.host-web.click"], ["x.r.cxmgaming.click", "x.r.host-web.click"], ["a.s.cxmgaming.click", "a.s.host-web.click"], ["b.r.cxmgaming.click", "b.r.host-web.click"], ["c.z.cxmgaming.click", "c.z.host-web.click"], ["a.ms.cxmgaming.click", "a.ms.host-web.click"], ["r.d.cxmgaming.click", "r.d.host-web.click"], ["w.q.cxmgaming.click", "w.q.host-web.click"]]
+}
