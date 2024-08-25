@@ -4,9 +4,9 @@ This Telegram bot allows you to change domains in your V2Ray config with ease. Y
 
 ## 📋 Bot Features
 
-- ♻️ Change Domain in Config: Provide a VLESS config URL and the bot will automatically replace domains.
+- **♻️ Change Domain in Config**: Provide a VLESS config URL and the bot will automatically replace domains.
 
-- 📞 Get Support: Contact the support ID.
+- **📞 Support**: Send support username.
 
 
 # 🛠 ربات تلگرام تغییر دامین V2Ray 🌐 | فارسی
